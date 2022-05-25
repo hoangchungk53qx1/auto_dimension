@@ -1,1 +1,1 @@
-# Lecre
+# auto-generate-dimension
