@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">auto_dimens</string>
+    <string name="this_is_auto_dimension_for_multiple_screen">This is Auto Dimension for multiple screen</string>
 </resources>
